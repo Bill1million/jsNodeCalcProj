@@ -1,0 +1,4 @@
+#local node files 
+node_modules
+.vscode
+package-lock.json
